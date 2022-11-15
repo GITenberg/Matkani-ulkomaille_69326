@@ -1,0 +1,24 @@
+_repo: Matkani-ulkomaille_69326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hauvonen, Nikodemus
+    gutenberg_agent_id: '45175'
+    url: http://www.gutenberg.org/2009/agents/45175
+description: ''
+gutenberg_issued: '2022-11-12'
+identifiers:
+  gutenberg: '69326'
+language: fi
+pgterms:marc905: 20220326030851hauvonen
+pgterms:marc906: '1878'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Östra Finland, omalla kustannuksella,1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Matkani ulkomaille
+url: http://www.gutenberg.org/ebooks/69326
