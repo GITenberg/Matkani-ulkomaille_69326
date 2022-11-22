@@ -1,11 +1,16 @@
 _repo: Matkani-ulkomaille_69326
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hauvonen, Nikodemus
     gutenberg_agent_id: '45175'
     url: http://www.gutenberg.org/2009/agents/45175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69326#Matkani-ulkomaille
 gutenberg_issued: '2022-11-12'
 identifiers:
   gutenberg: '69326'
